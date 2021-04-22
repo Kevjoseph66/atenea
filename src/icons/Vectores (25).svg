@@ -1,0 +1,16 @@
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 39.65 39.65">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #6db1e4;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <title>Atenea</title>
+  <rect class="cls-1" width="39.65" height="39.65" rx="6.04" ry="6.04"/>
+  <path class="cls-2" d="M23.11,12.92H25V9.63a22.77,22.77,0,0,0-2.75-.15c-2.72,0-4.59,1.71-4.59,4.86v2.9h-3v3.68h3v9.25h3.68V20.92h2.89l.46-3.68H21.34V14.71c0-1.07.29-1.79,1.77-1.79Z"/>
+</svg>
